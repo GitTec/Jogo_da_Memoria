@@ -1,0 +1,77 @@
+[
+    {
+        "nome": "cachorro",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998627.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "cachorro",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998627.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "galinha",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/2853/2853172.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "galinha",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/2853/2853172.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "gato",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "gato",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "mico",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998721.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "pinguin",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998747.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "pinguin",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998747.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "elefante",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998642.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "elefante",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1998/1998642.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "ovelha",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/8277/8277647.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "ovelha",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/8277/8277647.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "passaro",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/7361/7361761.png",
+        "estaVisivel": false
+    },
+    {
+        "nome": "passaro",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/7361/7361761.png",
+        "estaVisivel": false
+    }
+]

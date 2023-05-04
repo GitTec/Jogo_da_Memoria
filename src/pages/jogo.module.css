@@ -1,0 +1,23 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--verde-800);
+}
+
+.espacoCartas{
+    background-color: var(--verde-200);
+    margin: 2rem;
+    border-radius: 1rem;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.cabecalho{
+    background-color: var(--verde-200);
+    color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
