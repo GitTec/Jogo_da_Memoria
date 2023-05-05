@@ -1,23 +1,61 @@
-.container{
-    width: 100vw;
-    height: 100vh;
+.container {
+    min-width: fit-content;
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
     background-color: var(--verde-800);
 }
 
-.espacoCartas{
+.espacoCartas {
     background-color: var(--verde-200);
     margin: 2rem;
     border-radius: 1rem;
     padding: 2rem;
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: repeat(5, 1fr);
 }
 
-.cabecalho{
+.gridItem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecalho {
     background-color: var(--verde-200);
     color: black;
     width: 100%;
     display: flex;
     justify-content: center;
-    
+
+}
+
+@media only screen and (min-width: 300px) {
+    .espacoCartas {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 510px) {
+    .espacoCartas {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media only screen and (min-width: 780px) {
+    .espacoCartas {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .espacoCartas {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .espacoCartas {
+        grid-template-columns: repeat(6, 1fr);
+    }
 }
